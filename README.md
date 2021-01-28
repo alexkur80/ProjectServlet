@@ -8,3 +8,4 @@
 * Tomcat
 * CSS, HTML
 
+Certificate: [IT-Academy certificate](https://cloud.mail.ru/public/2yUu/2cBxDXAYJ)
